@@ -25,15 +25,15 @@ Main Background of the Project is to develop a system for the early detection an
 
 
 ## Technologies Used
--Python - version 3.12.2
--Jupyter Notebook - 7.4.2
--Anaconda - 2023.10
--Numpy - version 1.26.2
--Pandas - version 2.1.4
--Plotly - version 5.18.0
--Matplotlib - 3.6.2
--Git - version 2.42.1
--Seaborn - 0.12.2
+- Python - version 3.12.2
+- Jupyter Notebook - 7.4.2
+- Anaconda - 2023.10
+- Numpy - version 1.26.2
+- Pandas - version 2.1.4
+- Plotly - version 5.18.0
+- Matplotlib - 3.6.2
+- Git - version 2.42.1
+- Seaborn - 0.12.2
 - Keras - 2.15.x
 - tenserflow - 2.15.x
 
